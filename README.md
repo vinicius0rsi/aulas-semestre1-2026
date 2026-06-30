@@ -1,2 +1,2 @@
-# aulas-semestre1-2026
-material do 1° semestre de 2026 de algoritmos
+# AULAS REFERENTES ÀS AULAS DE ALGORITMO E PROGRAMAÇÃO DO 1° SEMESTRE DE 2026
+Material do **1° semestre de 2026**.
